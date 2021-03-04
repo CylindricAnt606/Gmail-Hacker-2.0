@@ -1,63 +1,42 @@
-![](gmail.gif)
-
-**Programmed in Python | PySimpleGUI**
-
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/adrijano/Gmail-Hack/)
-
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/adrijano/Gmail-Hack/graphs/commit-activity)
-
-
-# Gmail Hack
-```
-Python script with PySimpleGUI for hack gmail account using brute force attack
-
-```
-# If you like it give it a star
-
-[![GitHub stars](https://img.shields.io/github/stars/adrijano/Gmail-hack.svg?style=social&label=Star&maxAge=0)](https://github.com/adrijano/Gmail-Hack/)
-
-![Adrijan's github stats](https://github-readme-stats.vercel.app/api?username=adrijano&show_icons=true)
-
-[![paypal](https://svgshare.com/i/Q0_.svg)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=PFB6A6HLAQHC2&source=url)  [![Bitcoin](https://svgshare.com/i/QBo.svg)](https://commerce.coinbase.com/checkout/149a6235-ec7e-4d3b-a1ae-b08c4f08b4f6)
-
-
-
 # Usage:
-### Python3+
+### Python3+ Linux
 
 ```
+sudo apt install git
+
 git clone https://github.com/adrijano/Gmail-Hack.git
 
-cd Bitcoin-wallet-cracker && pip install -r requirements.txt
+sudo apt update
 
-python gmail_hack.py
+sudo apt upgrade
+
+sudo apt install python3-pip
+
+sudo apt install python
+
+sudo apt install python3
+
+cd Gmail-Hack && pip install -r requirements.txt IF DOESN'T WORK PLEASE FOLLOW THE NEXT STEP IF NOT THEN SKIP IT
+
+(ONLY IF THE ABOVE DOESN'T WORK)
+cd Gmail-Hack
+
+pip (or pip3) install pysimplegui
+
+pip (or pip3) install pyperclip
+
+pip (or pip3) install secure-smtplib
+----------------------------------------
+Skip here if the first one complated successfully 
+
+python3 gmail_hack.py
 
 ```
 ### Windows
 ```
-cd dist
-start gmail_hack.exe
-```
-## Donations
-If you would like to support me, donations are very welcome.
+Go to releases and download the Gmail-Hack.exe !MAKE SURE YOU HAVE A .TXT FILE WITH THE PASSWORDS INCLUDED FOR THE BRUTE FORCER TO WORK EXAMPLE ONES ARE ALSO FOUND ON THE RELEASES BUT YOU CAN JUST MAKE YOU OWN.
 
 ```
-You can use Paypal to donate using your own credit card. 
-The payment is processed by PayPal but you don't need to have a
-PayPal account or sign-up for one if you are paying by credit card.
-
-You can also use your own Paypal account to donate.
-
-You can also donate Bitcoin, Bitcoin Cash, Dai, Ethereum, Litecoin and USD Coin.
-```
-[![paypal](https://svgshare.com/i/Q0_.svg)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=PFB6A6HLAQHC2&source=url)  [![Bitcoin](https://svgshare.com/i/QBo.svg)](https://commerce.coinbase.com/checkout/149a6235-ec7e-4d3b-a1ae-b08c4f08b4f6)
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/adrijano/Gmail-Hack/)
-
-
 
 # Disclaimer
 
