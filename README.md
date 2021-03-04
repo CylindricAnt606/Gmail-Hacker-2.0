@@ -4,7 +4,7 @@
 ```
 sudo apt install git
 
-git clone https://github.com/adrijano/Gmail-Hack.git
+git clone https://github.com/CylindricAnt606/Gmail-Hacker-2.0.git
 
 sudo apt update
 
